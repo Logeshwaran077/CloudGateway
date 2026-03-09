@@ -114,7 +114,7 @@
                 <version>3.4.0</version>
                 <configuration>
                     <to>
-                        <image>lokie2000/cloud-gateway-lrmicro</image>
+                        <image>{REPO_URL}/cloudgateway</image>
                     </to>
                 </configuration>
             </plugin>
