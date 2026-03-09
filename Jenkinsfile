@@ -9,7 +9,7 @@ node {
     def project = "cyber-security-48"
     def repo = "spring-microservices"
     def registryUrl = "us-west4-docker.pkg.dev"
-    def fullRepoPath = "${registryUrl}/${project}/${repo}/CloudGateway"
+    def fullRepoPath = "${registryUrl}/${project}/${repo}/cloudgateway"
     def clusterName = "microservices-cluster-1"
     def zone = "us-west4"
 
